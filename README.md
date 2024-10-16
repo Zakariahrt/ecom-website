@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-This project is an e-commerce website built with PHP and MySQL using PDO extension. The website allows users to browse products, add items to their cart, and complete purchases. It includes an admin panel for managing products, orders, and customers.
+This project is an e-commerce website built with PHP and MySQL using MySQLi extension. The website allows users to browse products, add items to their cart, and complete purchases. It includes an admin panel for managing products, orders, and customers.
 
 ## Features
 
@@ -21,4 +21,3 @@ This project is an e-commerce website built with PHP and MySQL using PDO extensi
 
 - **PHP:** The core language for backend development.
 - **MySQL:** Relational database for storing application data.
-- **PDO (PHP Data Objects):** Provides a secure and consistent interface for database access.
